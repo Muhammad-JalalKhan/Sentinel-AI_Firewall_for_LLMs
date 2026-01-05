@@ -1,10 +1,3 @@
-# Environments
 venv/
-.env[[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHfLig6FGmsn8XrzCS0Ne9Oc1Avk6bo7Y9LuIrMjxvo9GWjBtQgxPrbkvduV1VnTJinO9jduBbbFJ95Z2QE6iSnBGQ5RaWHAMppNkneeBapB9vqsXoDzyo7LuiIvY8HomYl5_o49UuZ5KssskYbpDD76iyWUjfUXIXl0a7d_yDPo57JyjSPBzuxcPB3h1se)]
-
-# Python junk
 __pycache__/
-*.pyc[[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHfLig6FGmsn8XrzCS0Ne9Oc1Avk6bo7Y9LuIrMjxvo9GWjBtQgxPrbkvduV1VnTJinO9jduBbbFJ95Z2QE6iSnBGQ5RaWHAMppNkneeBapB9vqsXoDzyo7LuiIvY8HomYl5_o49UuZ5KssskYbpDD76iyWUjfUXIXl0a7d_yDPo57JyjSPBzuxcPB3h1se)]
-
-# Large model files (optional, if they are >100MB)
-# models/
+.env
